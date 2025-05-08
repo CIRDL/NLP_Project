@@ -1,0 +1,54 @@
+ID: SP-0
+Question: Mr. and Mrs. Mustard have six daughters and each daughter has one brother. But there are only 9 people in the family, how is that possible?
+Choices:
+  A. Some daughters get married and have their own family.
+  B. Each daughter shares the same brother.
+  C. Some brothers were not loved by family and moved away.
+  D. None of above.
+Answer: Each daughter shares the same brother.
+------------------------------------------------------------
+ID: SP-0_GEN
+Question: How is it possible for three sisters to all have the same sibling, despite not being triplets?
+Choices:
+  A. None of above.
+  B. Each daughter shares the same brother.
+  C. Some brothers were not loved by family and moved away.
+  D. Some daughters get married and have their own family.
+Answer: Each daughter shares the same brother.
+------------------------------------------------------------
+ID: SP-0_SR
+Question: The six daughters of Mr. and Mrs. Mustard each have one brother. However, the family only consists of nine people; how is that possible?
+Choices:
+  A. Some brothers were not loved by family and moved away.
+  B. Some daughters get married and have their own family.
+  C. Each daughter shares the same brother.
+  D. None of above.
+Answer: Each daughter shares the same brother.
+------------------------------------------------------------
+ID: SP-0_GEN
+Question: What relationship do the three daughters have with the one male sibling they have in common?
+Choices:
+  A. Some daughters get married and have their own family.
+  B. Each daughter shares the same brother.
+  C. Some brothers were not loved by family and moved away.
+  D. None of above.
+Answer: Each daughter shares the same brother.
+------------------------------------------------------------
+ID: SP-0_CR
+Question: A chess team has five players, and each player has one coach. But there are only six participants in the team. How is that possible?
+Choices:
+  A. Each player shares the same coach.
+  B. Some players are backups and not allowed to play.
+  C. Some coaches get a raise.
+  D. None of above.
+Answer: Each player shares the same coach.
+------------------------------------------------------------
+ID: SP-0_GEN
+Question: What common resource do all the athletes on the team have in their training sessions?
+Choices:
+  A. Some players are backups and not allowed to play.
+  B. Some coaches get a raise.
+  C. Each player shares the same coach.
+  D. None of above.
+Answer: Each player shares the same coach.
+------------------------------------------------------------
