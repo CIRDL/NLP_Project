@@ -1,0 +1,2 @@
+eval_loss,eval_accuracy,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,model,timestamp
+1.386398196220398,0.1875,0.7024,136.674,34.168,3.0,FacebookAI/roberta-large,2025_05_03_16_57
